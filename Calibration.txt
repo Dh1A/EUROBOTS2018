@@ -1,0 +1,18 @@
+226
+322
+222
+421
+223
+394
+224
+347
+218
+473
+218
+449
+223
+372
+file layout : (yellow w/h)(line1/2) (blue w/h)(line3/4)
+file layout : (black w/h)(line5/6)(grey w/h)(line7/8)
+file layout : ( white w/h)(line9/10)(green w/h)(line11/12)
+file layout : ( orange w/h)(line13/14)
